@@ -1,2 +1,2 @@
 # calc_wfkp
-Compute fkp weight 
+Compute nbar and fkp weight for a sample
